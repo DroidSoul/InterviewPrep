@@ -1,10 +1,9 @@
 ﻿# InterviewPrep
-prework.
 here is week1 before session.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented checkpoints(https://i.imgur.com/7TI55ND.gif):
+Here's a walkthrough of implemented week1 before session(https://i.imgur.com/7TI55ND.gif):
 
 <img src='https://i.imgur.com/7TI55ND.gif' title='Video Walkthrough' width='1089' alt='Video Walkthrough' />
 
