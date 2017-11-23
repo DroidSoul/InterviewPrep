@@ -1,11 +1,12 @@
 ﻿# InterviewPrep
-Here is prework.
+prework.
+here is week1 before session.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented checkpoints(https://imgur.com/itaMfk1):
+Here's a walkthrough of implemented checkpoints(https://i.imgur.com/7TI55ND.gif):
 
-<img src='https://imgur.com/itaMfk1' title='Video Walkthrough' width='1839' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/7TI55ND.gif' title='Video Walkthrough' width='1089' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
