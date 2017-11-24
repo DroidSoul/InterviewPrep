@@ -1,4 +1,4 @@
-﻿# InterviewPrep
+# InterviewPrep
 here is week1 before session.
 
 ## Video Walkthrough
@@ -11,7 +11,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Completed checkpoints 1-7 and Arrays.
+Completed week1 before session.
 
 
 
