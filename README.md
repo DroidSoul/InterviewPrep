@@ -1,17 +1,17 @@
 # InterviewPrep
-here is week1 assignment.
+here is week2 before session.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented week1 before session(https://i.imgur.com/XrSJtcv.gif):
+Here's a walkthrough of implemented week1 before session(https://i.imgur.com/BI2RxOT.gif):
 
-<img src='https://i.imgur.com/XrSJtcv.gif' title='Video Walkthrough' width='914' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/BI2RxOT.gif' title='Video Walkthrough' width='914' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Completed week1 assignment.
+Completed week2 before session.
 
 
 
