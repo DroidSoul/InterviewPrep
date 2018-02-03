@@ -1,17 +1,17 @@
 # InterviewPrep
-Here is week6 pre session.
+Here is week6 assignment.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented week5 assignment(https://i.imgur.com/f4I41XS.gif):
+Here's a walkthrough of implemented week5 assignment(https://i.imgur.com/AK9yGVY.gif):
 
-<img src='https://i.imgur.com/f4I41XS.gif' title='Video Walkthrough' width='914' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/AK9yGVY.gif' title='Video Walkthrough' width='914' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Completed week6 pre session.
+Completed week6 assignment.
 
 
 
