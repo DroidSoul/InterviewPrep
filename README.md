@@ -1,23 +1,23 @@
 # InterviewPrep
-Here is week6 assignment.
+Here is week8 assignment and work in progress.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented week5 assignment(https://i.imgur.com/AK9yGVY.gif):
+Here's a walkthrough of implemented week5 assignment(https://i.imgur.com/ssS2oJe.gif):
 
-<img src='https://i.imgur.com/AK9yGVY.gif' title='Video Walkthrough' width='914' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ssS2oJe.gif' title='Video Walkthrough' width='806' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Completed week6 assignment.
+Here is week8 assignment and work in progress.
 
 
 
 ## License
 
-    Copyright [2017] [Mark Weixiao Huang]
+    Copyright [2018] [Mark Weixiao Huang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
